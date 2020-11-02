@@ -1,0 +1,17 @@
+
+
+.socialMedia{
+        background-color: chocolate;
+        width: 40px;
+        float: left;
+    }
+.contactUs {
+        background-color: coral;
+        width: 30px;
+        float: left;
+    }
+.silentAuction{
+        background-color: darkcyan;
+        width: 30px;
+        float: left;
+    }

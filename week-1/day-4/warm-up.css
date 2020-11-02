@@ -1,0 +1,13 @@
+h1{
+    text-transform: lowercase;
+    color: red;
+    font-family: "Sofia";
+    }
+h2{
+    text-align: right;
+    color: pink;
+    }
+h3{
+    font-size: 58px;
+    color: blueviolet;
+    }
